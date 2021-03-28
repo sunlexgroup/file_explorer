@@ -1,0 +1,8 @@
+backend/.idea/
+.vscode/
+backend/file_explorer/file_explorer/__pycache__/
+backend/file_explorer/files/__pycache__/
+backend/file_explorer/db.sqlite3
+backend/venv/
+backend/file_explorer/files/migrations/__pycache__/
+.vscode/settings.json
